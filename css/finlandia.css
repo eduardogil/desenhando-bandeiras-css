@@ -1,0 +1,28 @@
+/* Finlandia */
+
+.container{
+    width: 500px;
+    height: 360px;
+    box-sizing: border-box;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+    background: #fff;
+    margin: auto;   
+
+    
+}
+.col{
+    background-color:#0000FF;
+    padding: 180px 35px;
+    float: left;
+    box-sizing: border-box;
+    margin-left: 120px;
+}
+
+.row{
+    position: absolute;
+    background-color:#0000FF;
+    margin: auto;
+    padding: 35px 250px;
+    box-sizing: border-box;
+    top: 150px;
+}
